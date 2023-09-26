@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultiLanguageSupport</string>
+    <string name="baslik">Hello</string>
+    <string name="kullaniciPlaceHolder">Enter Username</string>
+    <string name="sifrePlaceHolder">Enter Password</string>
+    <string name="buttonText">Please Log In</string>
+</resources>
